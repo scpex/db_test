@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db_test", "db_test\db_test.csproj", "{5FE7B0B2-C304-4C52-A681-56E9B73FDFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eduDB", "eduDB\eduDB.csproj", "{84E6653B-14FC-4F3C-9349-06E544F22C19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5FE7B0B2-C304-4C52-A681-56E9B73FDFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE7B0B2-C304-4C52-A681-56E9B73FDFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE7B0B2-C304-4C52-A681-56E9B73FDFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E6653B-14FC-4F3C-9349-06E544F22C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E6653B-14FC-4F3C-9349-06E544F22C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E6653B-14FC-4F3C-9349-06E544F22C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E6653B-14FC-4F3C-9349-06E544F22C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
